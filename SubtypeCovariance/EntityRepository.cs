@@ -10,6 +10,7 @@ namespace SubtypeCovariance
     {
         public virtual Entity GetByID(Guid id)
         {
+            //return new Entity(id);
             return new Entity(id);
         }
     }

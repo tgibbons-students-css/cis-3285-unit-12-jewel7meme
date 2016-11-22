@@ -13,6 +13,6 @@ namespace SubtypeCovariance
         {
             return new Entity(id);
         }
-   
+        
     }
 }
